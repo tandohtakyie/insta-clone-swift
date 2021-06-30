@@ -7,4 +7,16 @@ target 'Instagram' do
 
   # Pods for Instagram
 
+	# add the Firebase pod for Google Analytics
+
+	pod 'Firebase/Analytics'
+	pod 'Firebase/Crashlytics'
+
+	pod 'Firebase/Auth'
+	pod 'Firebase/Firestore'
+	pod 'Firebase/Core'
+	pod 'Firebase/Storage'
+
+
+
 end
