@@ -191,9 +191,9 @@
 		A7801B7B268C7308007F80E0 /* General */ = {
 			isa = PBXGroup;
 			children = (
+				A7801B4F268C658A007F80E0 /* SettingsViewController.swift */,
 				A7801B49268C645F007F80E0 /* PostViewController.swift */,
 				A7801B4C268C64A5007F80E0 /* EditProfileViewController.swift */,
-				A7801B4F268C658A007F80E0 /* SettingsViewController.swift */,
 				A7801B52268C65A7007F80E0 /* ListViewController.swift */,
 				A7801B55268C6604007F80E0 /* SearchViewController.swift */,
 				A7801B58268C6615007F80E0 /* SearchResultViewController.swift */,
