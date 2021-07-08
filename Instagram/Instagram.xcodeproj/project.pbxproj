@@ -42,6 +42,7 @@
 		A7801B83268C74A6007F80E0 /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7801B82268C74A6007F80E0 /* AuthManager.swift */; };
 		A7801B86268C7502007F80E0 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7801B85268C7502007F80E0 /* StorageManager.swift */; };
 		A7801BA0268C7DF5007F80E0 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7801B9F268C7DF5007F80E0 /* Extensions.swift */; };
+		A7AC0D852696F27500803686 /* UserFollowTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7AC0D842696F27500803686 /* UserFollowTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +85,7 @@
 		A7801B82268C74A6007F80E0 /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
 		A7801B85268C7502007F80E0 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		A7801B9F268C7DF5007F80E0 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		A7AC0D842696F27500803686 /* UserFollowTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFollowTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				A77EE6C5268F2E7C00EB4536 /* Home Feeds */,
 				A77EE6D0268F457200EB4536 /* FormTableViewCell.swift */,
 				A77EE6D4268F533800EB4536 /* PhotoCollectionViewCell.swift */,
+				A7AC0D842696F27500803686 /* UserFollowTableViewCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -395,6 +398,7 @@
 				A77EE6C7268F2ED400EB4536 /* IGFeedPostHeaderTableViewCell.swift in Sources */,
 				A7801B5C268C6660007F80E0 /* PostEditorViewController.swift in Sources */,
 				A7801B86268C7502007F80E0 /* StorageManager.swift in Sources */,
+				A7AC0D852696F27500803686 /* UserFollowTableViewCell.swift in Sources */,
 				A77EE6FB268F6A9000EB4536 /* Models.swift in Sources */,
 				A77EE6D1268F457200EB4536 /* FormTableViewCell.swift in Sources */,
 				A7801B4A268C645F007F80E0 /* PostViewController.swift in Sources */,
