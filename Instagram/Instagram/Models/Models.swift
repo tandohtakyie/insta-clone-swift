@@ -28,6 +28,11 @@ struct UserCount {
     let posts: Int
 }
 
+public enum UserPostType: String {
+    case photo = "Photo"
+    case video = "Video"
+}
+
 /// Represent a user's post
 public struct UserPost {
     let identifier: String
